@@ -1,0 +1,37 @@
+{
+  "Title": { "type": "string"},
+  "Year": { "type": "string"},
+  "Rated": { "type": "string"},
+  "Released": { "type": "string"},
+  "Runtime": { "type": "string"},
+  "Genre": { "type": "string"},
+  "Director": { "type": "string"},
+  "Writer": { "type": "string"},
+  "Actors": { "type": "string"},
+  "Plot": { "type": "string"},
+  "Language": { "type": "string"},
+  "Country": { "type": "string"},
+  "Awards": { "type": "string"},
+  "Poster": { "type": "string"},
+  "Ratings": [{
+    "Source": { "type": "string"},
+    "Value": { "type": "string"}
+  }, {
+    "Source": { "type": "string"},
+    "Value": { "type": "string"}
+  }, {
+    "Source": { "type": "string"},
+    "Value": { "type": "string"}
+  }],
+  "Metascore": { "type": "string"},
+  "imdbRating": { "type": "string"},
+  "imdbVotes": { "type": "string"},
+  "imdbID": { "type": "string"},
+  "Type": { "type": "string"},
+  "DVD": { "type": "string"},
+  "BoxOffice": { "type": "string"},
+  "Production": { "type": "string"},
+  "Website": { "type": "string"},
+  "Response": { "type": "boolean"}
+}
+
